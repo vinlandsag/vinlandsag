@@ -23,12 +23,9 @@
   <tr><td>⚡ <b>Focus</b></td><td>Web · Hardware · AI</td></tr>
   <tr><td>💬 <b>Status</b></td><td>Open to collabs ✅</td></tr>
 </table>
-
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ### 🕹️ Skills
 
