@@ -16,7 +16,6 @@
 &nbsp;&nbsp;&nbsp;
 <table>
   <tr><td>🎓 <b>Degree</b></td><td>Integrated MCA</td></tr>
-  <tr><td>🏛️ <b>College</b></td><td>SJCET Palai</td></tr>
   <tr><td>📍 <b>Location</b></td><td>Kerala, India 🇮🇳</td></tr>
   <tr><td>⚡ <b>Focus</b></td><td>Web · Hardware · AI</td></tr>
   <tr><td>💬 <b>Status</b></td><td>Open to collabs ✅</td></tr>
@@ -73,7 +72,7 @@
 &nbsp;
 <a href="mailto:milansanthosh26@gmail.com"><img src="https://img.shields.io/badge/Gmail-milansanthosh26-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:0d1117&height=110&section=footer" />
 
