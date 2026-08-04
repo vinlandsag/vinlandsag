@@ -53,13 +53,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-### 📊 Stats
+<!--### 📊 Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinlandsag&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=94a3b8&border_color=1e293b&rank_icon=github&hide_border=false" height="155" alt="stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinlandsag&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=67e8f9&border=1e293b&sideNums=a78bfa&sideLabels=94a3b8&dates=94a3b8" height="155" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinlandsag&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=67e8f9&border=1e293b&sideNums=a78bfa&sideLabels=94a3b8&dates=94a3b8" height="155" alt="streak"/>-->
 
 </div>
 
