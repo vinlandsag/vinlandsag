@@ -1,5 +1,8 @@
 <div align="center">
 
+<h1>Hi 👋, I'm Milan Santhosh</h1>
+</div>
+
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:0d1117&height=180&section=header&text=%3C%20Milan%20Santhosh%20/%3E&fontSize=40&fontColor=a78bfa&animation=twinkling&fontAlignY=42&desc=IMCA%20%E2%80%A2%20SJCET%20Palai%20%E2%80%A2%20Kerala&descAlignY=65&descColor=67e8f9" />-->
 
 <br/>
@@ -74,6 +77,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:0d1117&height=110&section=footer" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e0a3c,100:0d1117&height=110&section=footer" />-->
 
 </div>
