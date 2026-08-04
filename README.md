@@ -25,8 +25,6 @@
 </table>
 </div>
 
-<br/>
-
 ### 🕹️ Skills
 
 <div align="center">
@@ -43,26 +41,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!--### ⚔️ Quest Log
-
-&nbsp;&nbsp;`01` 🌐 **Portfolio Website** — Responsive, from-scratch with particle canvas, glitch FX & zero frameworks<br/>
-&nbsp;&nbsp;`02` 🛰️ **Orbital Data Centers** — Technical seminar on LEO satellite cloud infrastructure & latency<br/>
-&nbsp;&nbsp;`03` 🎲 **Uno Reverse: AI Edition** — Led an AI-themed event at SJCET MCA Lab with generative AI rules
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!--### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinlandsag&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=94a3b8&border_color=1e293b&rank_icon=github&hide_border=false" height="155" alt="stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinlandsag&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=67e8f9&border=1e293b&sideNums=a78bfa&sideLabels=94a3b8&dates=94a3b8" height="155" alt="streak"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />-->
 
 <div align="center">
 
